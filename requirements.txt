@@ -3,8 +3,8 @@ uvicorn[standard]==0.35.0
 sqlalchemy==2.0.41
 psycopg2-binary==2.9.10
 python-jose[cryptography]==3.4.0
-passlib[argon2-cffi]==1.7.4
+passlib[bcrypt]==1.7.4
 python-multipart==0.0.20
 pydantic-settings==2.10.1
 email-validator==2.2.0
-pip install argon2_cffi==25.1.0
+argon2_cffi==25.1.0
